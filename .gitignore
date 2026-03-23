@@ -41,3 +41,8 @@ Thumbs.db
 *.tmp
 temp.txt
 test_cases.json
+
+# Analysis files (临时分析文件)
+*_analysis.json
+*_comparison.md
+*_report.md
